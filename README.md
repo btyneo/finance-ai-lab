@@ -64,4 +64,4 @@ By the end of this journey, this repo will demonstrate:
 
 ## 📬 Connect
 - **GitHub**: [github.com/btyneo](https://github.com/btyneo)  
-- **LinkedIn**: (add your LinkedIn link here)  
+- **LinkedIn**: [www.linkedin.com/hamza](https://www.linkedin.com/in/hamza-sohail-190523376/)  
