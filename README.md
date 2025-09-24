@@ -35,13 +35,6 @@ finance-ai-lab/
 - Visualized trends with `matplotlib`.  
 - **Key insight:** EMA reacts faster to price movements, while SMA smooths long-term trends.  
 
-📊 Example chart:  
-
-*(Insert chart screenshot here — save as `task1_plot.png` and embed like this)*  
-```markdown
-![Task 1 Plot](images/task01.png)
-```
-
 ---
 
 ## 🛠 Tech Stack
