@@ -1,6 +1,6 @@
 # Finance AI Lab 🚀
 
-![Quant Banner](quant.jpg)
+![Quant Banner](quant.jpeg)
 
 This repository documents my **180-day journey into Finance + AI**.  
 The goal: build skills in quantitative finance, econometrics, and machine learning — while shipping projects that demonstrate real-world applications.
