@@ -1,6 +1,6 @@
 # Finance AI Lab 🚀
 
-![Quant Banner](quant.jpeg)
+![Quant Banner](images/quant.jpeg)
 
 This repository documents my **180-day journey into Finance + AI**.  
 The goal: build skills in quantitative finance, econometrics, and machine learning — while shipping projects that demonstrate real-world applications.
@@ -39,7 +39,7 @@ finance-ai-lab/
 
 *(Insert chart screenshot here — save as `task1_plot.png` and embed like this)*  
 ```markdown
-![Task 1 Plot](task1_plot.png)
+![Task 1 Plot](images/task01.png)
 ```
 
 ---
